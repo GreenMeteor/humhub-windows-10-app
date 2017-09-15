@@ -4,7 +4,7 @@
   xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
   xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
   IgnorableNamespaces="uap mp">
-    		<Identity Name="humhub" Publisher="CN=609C3FB0-65DC-428D-9FAD-5C98EEB174D4" Version="1.0.1.0" />
+    		<Identity Name="humhub" Publisher="CN=8475E28B-7A71-43FB-8FDA-E37DEDEFCBC9" Version="1.0.1.0" />
 	    <mp:PhoneIdentity PhoneProductId="2d2b41e1-e5fb-46a1-8f27-e286b433a918" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
     <Properties>
         <DisplayName>HumHub Community</DisplayName>
