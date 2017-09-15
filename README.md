@@ -2,3 +2,7 @@
 
 # [HumHub](https://www.humhub.org/hosting) Windows 10 Desktop/Mobile App
 Template for a Windows 10 desktop/mobile application
+
+## HumHub Windows App Docs
+- [Docs Homepage](/docs/README.md)
+> More to be added at a later date.
