@@ -35,7 +35,7 @@
         </ProjectConfiguration>
     </ItemGroup>
     <PropertyGroup Label="Globals">
-	    <ProjectGuid>{609C3FB0-65DC-428D-9FAD-5C98EEB174D4}</ProjectGuid>
+	    <ProjectGuid>{8475E28B-7A71-43FB-8FDA-E37DEDEFCBC9}</ProjectGuid>
 		<UapDefaultAssetScale>200</UapDefaultAssetScale>
     </PropertyGroup>
     <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
